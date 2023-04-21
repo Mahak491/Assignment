@@ -5,3 +5,5 @@ Create a web application using create-react-app:
 4. Show a loader while the API fetches the data.
 5. Bonus points for using custom CSS/SASS/styled-components.
 6. Bonus points for clean code.
+
+2 days taken to finish this project.
